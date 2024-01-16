@@ -1,14 +1,7 @@
 {
-  "routes": [
-    {
-      "src": "/api/*",
-      "dest": "/index.html"
+  "git": {
+    "deploymentEnabled": {
+      "main": false
     }
-  ],
-  "rewrites": [
-    {
-      "src": "/api/users/:id",
-      "dest": "/api/users/123"
-    }
-  ]
+  }
 }
