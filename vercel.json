@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "src": "/api/*",
+      "dest": "/index.html"
+    }
+  ],
+  "rewrites": [
+    {
+      "src": "/api/users/:id",
+      "dest": "/api/users/123"
+    }
+  ]
+}
