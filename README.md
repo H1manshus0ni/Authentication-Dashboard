@@ -1,6 +1,9 @@
 # React + Vite
 
 
+# to run this App locally : first install dependencies folder by "npm install" then write "npm run dev"
+
+
 link to the project - https://authentication-dashboard.vercel.app/
 
 
