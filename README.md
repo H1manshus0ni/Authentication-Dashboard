@@ -4,7 +4,7 @@
 # to run this App locally : first install dependencies folder by "npm install" then write "npm run dev"
 
 
-link to the project - https://authentication-dashboard.vercel.app/
+link to the project - https://upnyxauth.netlify.app/
 
 
 I made an authentication dashboard using React + vite with the help of Ant d library which a UI Component Library and Clerk authentication 
