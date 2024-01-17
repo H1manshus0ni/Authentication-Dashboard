@@ -1,5 +1,5 @@
 body {
-    background-image: url('imagebg.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-image: url('https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
     background-size: cover; /* This property ensures that the background image covers the entire element */
     background-position: center; /* This property centers the background image */
     background-repeat: no-repeat; /* This property prevents the background image from repeating */
