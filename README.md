@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + clerk
 # update: some css changes are been done
 
 to run this App locally :  "npm install" 
